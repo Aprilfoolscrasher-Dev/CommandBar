@@ -1,1 +1,1 @@
-JUst configs for Jared
+Just configs for Jared
